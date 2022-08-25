@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lu1s-h
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any fun begginer project
 - 📫 How to reach me luis.her.wie@gmail.com
 
 <!---
